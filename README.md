@@ -1,9 +1,9 @@
 # loan-status-prediction-by-using-machine-learning
-INTRODUCTION
+#INTRODUCTION
 
-Aim: To determine the loan approval system using machine learning algorithms.
+#Aim : To determine the loan approval system using machine learning algorithms.
 
-Synopsis:
+#Synopsis:
 Loan approval is a very important process for banking organizations. The systems
 approved or reject the loan applications. Recovery of loans is a major contributing
 parameter in the financial statements of a bank. It is very difficult to predict the possibility
